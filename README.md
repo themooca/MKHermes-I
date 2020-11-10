@@ -24,9 +24,9 @@ Passo 1: Instale o Python e o Selenium
 $ sudo pacman -S python
 ```
 
-Passo 2: Instale o Chromium
+Passo 2: Instale o Geckodriver
 ```sh
-$ sudo pacman -S chromium
+$ sudo pacman -S geckodriver
 ```
 
 Passo 3: Vamos copiar o repositório do git e entre no diretório
